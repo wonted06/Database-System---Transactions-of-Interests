@@ -96,7 +96,7 @@ This mirrors how **non-technical staff** might interact with a real production s
 ---
 
 ## Project Structure
-
+.
 ├── 100432626_DDL.sql              # Database schema & constraints
 ├── 100432626_own_data.sql         # Test data
 ├── PySQL.py                       # Database connection & queries
