@@ -96,14 +96,17 @@ This mirrors how **non-technical staff** might interact with a real production s
 ---
 
 ## Project Structure
-├── 100432626_DDL.sql              # Database schema & constraints
-├── 100432626_own_data.sql         # Test data
-├── PySQL.py                       # Database connection & queries
-├── Tkinter.py                     # GUI logic
-├── 100432626_GUI_source_code.py   # Integrated GUI application
-├── pw.txt                         # Local password file (excluded from production use)
-├── 100432626_Assessment_template.docx
-└── README.md
+| Path / File | Description |
+|------------|------------|
+| `100432626_DDL.sql` | Database schema, constraints, triggers |
+| `100432626_own_data.sql` | Test data for transactions |
+| `PySQL.py` | Database connection and SQL execution |
+| `Tkinter.py` | GUI components and event handling |
+| `100432626_GUI_source_code.py` | Integrated GUI application |
+| `pw.txt` | Local password file (not for production use) |
+| `100432626_Assessment_template.docx` | Completed assessment template |
+| `100432626_GUI_demo.mp4` | GUI demonstration video |
+| `README.md` | Project documentation |
 
 ---
 
